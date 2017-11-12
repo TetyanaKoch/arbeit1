@@ -5,4 +5,8 @@ Hallo Arbeit2
 
 änderung vor stash
 
+<<<<<<< Updated upstream
 grüner Titel
+=======
+ich stasche änderung
+>>>>>>> Stashed changes
