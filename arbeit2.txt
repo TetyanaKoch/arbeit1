@@ -1,1 +1,6 @@
+ Updated upstream
 Hallo Stash
+Hallo Arbeit2
+ Stashed changes
+
+änderung vor stash
